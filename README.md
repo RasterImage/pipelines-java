@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AFBISINC/JDP%20TFVC/_apis/build/status/RasterImage.pipelines-java?branchName=master)](https://dev.azure.com/AFBISINC/JDP%20TFVC/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
